@@ -20,6 +20,10 @@ This workshop teaches you how to build a complete decentralized storage applicat
 4. **FIL Tokens** - Get tFIL tokens from the Filecoin [Faucet](https://faucet.calibnet.chainsafe-fil.io/funds.html)
 5. **Git** and **pnpm** installed
 
+### Learn more about FilecoinOnchainCloud
+
+- [**Cheatsheet**](https://aleph-hackathon-filecoin.notion.site/Filecoin-Onchain-Cloud-Resources-25b4f02cc89f8074ba6fe761a8d58fda)
+
 ## 🚀 Getting Started
 
 1. **Clone and Setup**:
